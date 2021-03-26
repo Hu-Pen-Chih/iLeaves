@@ -30,7 +30,7 @@
             "action": {
                 "label": "new leave request",
                 "type": "uri",
-                "uri": "{YOUR_LIFF_URL}"
+                "uri": "{https://liff.line.me/1655799980}"
             }
         },
         {
@@ -43,7 +43,7 @@
             "action": {
                 "label": "check LR",
                 "type": "uri",
-                "uri": "{YOUR_LIFF_URL}"
+                "uri": "{https://liff.line.me/1655799980}"
             }
         },
         {
@@ -56,7 +56,7 @@
             "action": {
                 "label": "check and approve LR",
                 "type": "uri",
-                "uri": "{YOUR_LIFF_URL}"
+                "uri": "{https://liff.line.me/1655799980}"
             }
         },
         {
