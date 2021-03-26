@@ -17,7 +17,7 @@
             "action": {
                 "label": "accountLink",
                 "type": "uri",
-                "uri": "{YOUR_LIFF_URL}"
+                "uri": "{https://liff.line.me/1655799980}"
             }
         }
     ]
